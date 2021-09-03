@@ -1,0 +1,18 @@
+.menuLogo {
+  display: flex;
+  flex-direction:column;
+  background-color: rgba(248, 246, 246, 0.514);
+}
+
+.menuLogo img {
+   max-width: 400px;
+}
+.rutas {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.rutas a {
+  text-decoration: none;
+  color: black;
+}

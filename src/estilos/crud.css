@@ -1,0 +1,21 @@
+form {
+    display: flex;
+    flex-direction: column;
+    margin-left: 210px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    border-style: solid; 
+    width: 270px;
+    margin-top: 10vh;
+}
+form .textarea{ 
+    background-color: rgb(209, 16, 16);
+    border-radius: 5px;
+    padding: 0px;    
+}
+.buttonNotas{
+    margin-top: 8vh;
+    justify-content: center;
+    margin-left: 80px;
+}
