@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab63008f.chunk.css",
+    "main.js": "/static/js/main.f0c5959d.chunk.js",
+    "main.js.map": "/static/js/main.f0c5959d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.97f6739d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.97f6739d.js.map",
+    "static/js/2.cccbd456.chunk.js": "/static/js/2.cccbd456.chunk.js",
+    "static/js/2.cccbd456.chunk.js.map": "/static/js/2.cccbd456.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ab63008f.chunk.css.map": "/static/css/main.ab63008f.chunk.css.map",
+    "static/js/2.cccbd456.chunk.js.LICENSE.txt": "/static/js/2.cccbd456.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/71LSw6A4EiL._AC_SL1024_.fb75121c.jpg",
+    "static/media/google.496be2ba.PNG": "/static/media/google.496be2ba.PNG",
+    "static/media/logo maki.55ee0304.PNG": "/static/media/logo maki.55ee0304.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97f6739d.js",
+    "static/js/2.cccbd456.chunk.js",
+    "static/css/main.ab63008f.chunk.css",
+    "static/js/main.f0c5959d.chunk.js"
+  ]
+}
